@@ -5,6 +5,12 @@ Artificial Intelligence and Machine Learning practicals (Semester 7) by Dharmik 
 - `AI/`: 12 AI practicals with output images (`opAI1.png` to `opAI12.png`)
 - `ML/`: 12 ML practicals with output images (`opML1.png` to `opML12.png`)
 
+## Setup
+
+```
+pip install -r requirements.txt
+```
+
 ## Run
 
 ```
